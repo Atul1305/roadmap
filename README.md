@@ -1,6 +1,7 @@
 # roadmap
 * Core java : Collections, interface, overloading, inheritance, exceptions, java8
 * JVM, profiler, 
+* Memory
 * Data Structure:  weak hashmap, hashset, arraylist, 
 * Rest API: Principle, versioning
 * Spring-Core: Bean lifecycle, autowire, autoconfig, 
