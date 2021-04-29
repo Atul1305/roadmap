@@ -11,7 +11,7 @@
 * Security: CVE, Hashivault
 * Micro-services: Service Discovery, Service-Mesh, Circuit braker, ribbon, loadbalancing
 * Multi-threading: Synchronized, locks, wait, join, Atomicity, volatile, Executor framework
-* Design Principles: SOLID, fan-out, Application Layering,
+* Design Principles: Singleton, SOLID, fan-out, Application Layering,
 * Active-MQ, Kafka
 * Junit
 * Jenkins
