@@ -19,3 +19,4 @@
 * ELK
 * Elastic-search
 * Caching: Redis, mem-cache
+* Graph database
