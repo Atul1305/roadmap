@@ -1,5 +1,6 @@
 # roadmap
 * Core java : Collections, interface, overloading, inheritance, exceptions, java8
+* Log4j: https://logging.apache.org/log4j/2.x/manual/customloglevels.html
 * JVM, profiler, 
 * Memory
 * Data Structure:  weak hashmap, hashset, arraylist, 
