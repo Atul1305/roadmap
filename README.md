@@ -1,5 +1,6 @@
 # roadmap
 * Core java : Collections, interface, overloading, inheritance, exceptions, java8
+* Garbage Collection(GC): https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/
 * Log4j: https://logging.apache.org/log4j/2.x/manual/customloglevels.html
 * JVM, profiler, 
 * Memory
