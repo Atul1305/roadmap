@@ -1,7 +1,8 @@
 # roadmap
-* Core java : Collections, interface, overloading, inheritance, exceptions, java8
-* Garbage Collection(GC): https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/
-* Log4j: https://logging.apache.org/log4j/2.x/manual/customloglevels.html
+* Core java : Collections, interface, overloading, inheritance, exceptions, 
+* java8: [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html) <br>
+* Garbage Collection(GC): [How GC works](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) <br>
+* Log4j: [Custom logging levels](https://logging.apache.org/log4j/2.x/manual/customloglevels.html)
 * JVM, profiler, 
 * Memory
 * Data Structure:  weak hashmap, hashset, arraylist, 
@@ -9,8 +10,9 @@
 * Spring-Core: Bean lifecycle, autowire, autoconfig, 
 * Spring boot: embedded tomcat
 * Hibernate: 
-[transaction]:https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already , 
-[isolation]: https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/, entity relationship
+[transaction](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already) <br>
+[isolation](https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/) <br>
+entity relationship
 * Authentication OR Authorization: JWT, session tokens
 * Security: CVE, Hashivault
 * Micro-services: Service Discovery, Service-Mesh, Circuit braker, ribbon, loadbalancing
