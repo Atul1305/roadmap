@@ -1,13 +1,13 @@
 # roadmap
 * Core java : Collections, interface, overloading, inheritance, exceptions, 
-* java8: [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html) <br>
+* Java8: [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html) <br>
 * Garbage Collection(GC): [How GC works](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) <br>
 * Log4j: [Custom logging levels](https://logging.apache.org/log4j/2.x/manual/customloglevels.html)
 * JVM, profiler, 
 * Memory
 * Data Structure:  weak hashmap, hashset, arraylist, 
 * Rest API: Principle, versioning
-* Spring-Core: Bean lifecycle, autowire, autoconfig, 
+* Spring-Core: Bean lifecycle, autowire, autoconfig, [AOP](https://www.baeldung.com/spring-aop-pointcut-tutorial)
 * Spring boot: embedded tomcat
 * Hibernate: 
 [transaction](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already) <br>
