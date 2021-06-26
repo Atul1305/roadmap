@@ -12,6 +12,7 @@
 * Hibernate: 
 [transaction](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already) <br>
 [isolation](https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/) <br>
+[Tips for JPA with Oracle](https://vladmihalcea.com/tips-oracle-jpa-hibernate/) <br>
 entity relationship
 * Authentication OR Authorization: JWT, session tokens
 * Security: CVE, Hashivault
