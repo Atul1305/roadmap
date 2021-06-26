@@ -9,6 +9,7 @@
 * Rest API: Principle, versioning
 * Spring-Core: Bean lifecycle, autowire, autoconfig, [AOP](https://www.baeldung.com/spring-aop-pointcut-tutorial)
 * Spring boot: embedded tomcat
+* Database: [OptimisticVsPessimistic Locking](https://vladmihalcea.com/optimistic-vs-pessimistic-locking/) <br>
 * Hibernate: 
 [transaction](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already) <br>
 [isolation](https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/) <br>
