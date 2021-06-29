@@ -15,6 +15,7 @@
 [isolation](https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/) <br>
 [Tips for JPA with Oracle](https://vladmihalcea.com/tips-oracle-jpa-hibernate/) <br>
 entity relationship
+[hypersistence optimizer](https://vladmihalcea.com/hypersistence-optimizer/)
 * Authentication OR Authorization: JWT, session tokens
 * Security: CVE, Hashivault
 * Micro-services: Service Discovery, Service-Mesh, Circuit braker, ribbon, loadbalancing, [Debug Challenges](https://thenewstack.io/tracing-why-logs-arent-enough-to-debug-your-microservices/)
