@@ -29,6 +29,7 @@ entity relationship
 * Elastic-search
 * Caching: Redis, mem-cache
 * Graph database
+* [No-sql guide](https://blog.nahurst.com/visual-guide-to-nosql-systems)
 
 ## Q: What if your jwt token is stolen? ## <br>
 https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen
