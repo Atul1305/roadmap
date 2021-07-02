@@ -19,7 +19,7 @@ entity relationship
 * Authentication OR Authorization: JWT, session tokens
 * Security: CVE, Hashivault
 * Micro-services: Service Discovery, Service-Mesh, Circuit braker, ribbon, loadbalancing, [Debug Challenges](https://thenewstack.io/tracing-why-logs-arent-enough-to-debug-your-microservices/)
-* Multi-threading: Synchronized, locks, wait, join, Atomicity, volatile, Executor framework
+* Multi-threading: Synchronized, locks, wait, join, Atomicity, volatile, Executor framework, [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
 * Design Principles: Singleton, SOLID, fan-out, Application Layering,
 * Active-MQ, Kafka
 * Junit
