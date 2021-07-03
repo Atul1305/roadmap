@@ -71,7 +71,8 @@
 ## Micro-Service 
  * Discovery
  * loadbalancing
- * [Service-Mesh with Istio](https://www.baeldung.com/ops/istio-service-mesh) 
+ * [Service Mesh with Istio](https://www.baeldung.com/ops/istio-service-mesh)
+ * [Service Mesh with Linkerd](https://linkerd.io/) 
  * Circuit braker
  * ribbon
  * [Concerns with Microservice](https://www.baeldung.com/cs/microservices-cross-cutting-concerns)
