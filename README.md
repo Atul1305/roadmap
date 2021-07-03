@@ -104,6 +104,7 @@
 ## Containers 
 * Docker
 * Kubernetes
+* ECS
 
 ## ELK
 * Logtash
