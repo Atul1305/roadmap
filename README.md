@@ -2,9 +2,8 @@
 * Collections
 * interface
 * overloading 
-* inheritance 
+* inheritance
 * exceptions 
-
 
 ## Java8 
 * [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)f
@@ -126,5 +125,7 @@
 ## No-Sql
 * [No-sql guide](https://blog.nahurst.com/visual-guide-to-nosql-systems)
 
+## AWS
+* [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
 ## Q: What if your jwt token is stolen? ## <br>
 https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen
