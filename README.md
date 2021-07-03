@@ -67,7 +67,7 @@
 * Hashivault
 
 
-## Micro-servicesService 
+## Micro-Service 
  * Discovery
  * loadbalancing
  * [Service-Mesh](https://www.baeldung.com/ops/istio-service-mesh) 
