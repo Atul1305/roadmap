@@ -1,3 +1,5 @@
+## Recap
+
 ## Core java
 * Collections
 * interface
@@ -36,6 +38,10 @@
 * autowire
 * autoconfig
 * [AOP](https://www.baeldung.com/spring-aop-pointcut-tutorial)
+
+## Spring Security
+* [oauth](https://www.baeldung.com/spring-security-oauth)
+
 
 ## Spring boot 
   * [Interview Questions - baeldung](https://www.baeldung.com/spring-boot-interview-questions) 
@@ -78,6 +84,7 @@
  * ribbon
  * [Concerns with Microservice](https://www.baeldung.com/cs/microservices-cross-cutting-concerns)
  * [Debug Challenges](https://thenewstack.io/tracing-why-logs-arent-enough-to-debug-your-microservices/)
+ * [Envoy Proxy for resiliency](https://www.getambassador.io/resources/getting-started-envoyproxy-microservices-resilience/)
 
 
 ## Multi-threading
@@ -110,7 +117,12 @@
 
 ## Containers 
 * Docker
+ 1. [Dockerizing spring boot app](https://www.baeldung.com/dockerizing-spring-boot-application)
+ 2. [Docker Compose](https://www.baeldung.com/ops/docker-compose)
+ 3. [src example](https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-docker)
 * Kubernetes
+ 1. [Introduction](https://www.baeldung.com/ops/kubernetes)
+ 2. [Kubernetes With Spring boot](https://www.baeldung.com/spring-boot-minikube)
 * ECS
 
 ## ELK
@@ -131,3 +143,6 @@
 
 ## AWS
 * [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
+
+## others
+[Contribution to baeldung](https://www.baeldung.com/contribution-guidelines)
