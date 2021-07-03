@@ -1,5 +1,3 @@
-# roadmap
-
 ## Core java
 * Collections
 * interface
