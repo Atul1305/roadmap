@@ -59,6 +59,8 @@
 
 ## Authentication OR Authorization:
 * JWT
+    1. [What if your jwt token is stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
+
 * Session Tokens
 
 ## Security 
@@ -127,5 +129,3 @@
 
 ## AWS
 * [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
-## Q: What if your jwt token is stolen? ## <br>
-https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen
