@@ -8,8 +8,19 @@
 * Data Structure:  weak hashmap, hashset, arraylist, 
 * Rest API: Principle, versioning
 * Spring-Core: Bean lifecycle, autowire, autoconfig, [AOP](https://www.baeldung.com/spring-aop-pointcut-tutorial)
-* Spring boot: [Interview Questions - baeldung](https://www.baeldung.com/spring-boot-interview-questions) <br> [Profiles](https://www.baeldung.com/spring-profiles) <br>  [Properties](https://www.baeldung.com/properties-with-spring) <br> [Dev-tools](https://www.baeldung.com/spring-boot-devtools) <br> embedded server
-* Database: [OptimisticVsPessimistic Locking](https://vladmihalcea.com/optimistic-vs-pessimistic-locking/) <br>
+
+## Spring boot 
+  * [Interview Questions - baeldung](https://www.baeldung.com/spring-boot-interview-questions) 
+  * [Profiles](https://www.baeldung.com/spring-profiles)
+  * [Properties](https://www.baeldung.com/properties-with-spring) 
+  * [Dev-tools](https://www.baeldung.com/spring-boot-devtools) 
+  * [Testing] (https://www.baeldung.com/spring-boot-testing)  
+  * embedded server
+
+
+## Database: 
+[OptimisticVsPessimistic Locking](https://vladmihalcea.com/optimistic-vs-pessimistic-locking/) <br>
+
 * Hibernate: 
 [transaction](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already) <br>
 [isolation](https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/) <br>
