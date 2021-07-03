@@ -7,7 +7,7 @@
 
 
 ## Java8 
-* [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)
+* [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)f
 
 ## Garbage Collection(GC): 
 * [How GC works](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/)
@@ -70,7 +70,7 @@
 ## Micro-Service 
  * Discovery
  * loadbalancing
- * [Service-Mesh](https://www.baeldung.com/ops/istio-service-mesh) 
+ * [Service-Mesh with Istio](https://www.baeldung.com/ops/istio-service-mesh) 
  * Circuit braker
  * ribbon
  * [Concerns with Microservice](https://www.baeldung.com/cs/microservices-cross-cutting-concerns)
