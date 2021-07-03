@@ -1,15 +1,44 @@
 # roadmap
-* Core java : Collections, interface, overloading, inheritance, exceptions, 
-* Java8: [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html) <br>
-* Garbage Collection(GC): [How GC works](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/) <br>
+
+## Core java
+* Collections
+* interface
+* overloading 
+* inheritance 
+* exceptions 
+
+
+## Java8 
+* [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)
+
+## Garbage Collection(GC): 
+* [How GC works](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/)
+
 ## Log4j
  * [Custom logging levels](https://logging.apache.org/log4j/2.x/manual/customloglevels.html)
 
-* JVM, profiler, 
-* Memory
-* Data Structure:  weak hashmap, hashset, arraylist, 
-* Rest API: Principle, versioning
-* Spring-Core: Bean lifecycle, autowire, autoconfig, [AOP](https://www.baeldung.com/spring-aop-pointcut-tutorial)
+## JVM
+
+## Profiler
+
+## Memory
+
+## Data Structure
+* Weak hashmap
+* hashset
+* arraylist
+
+
+## Rest API 
+* Principle
+* Versioning
+
+
+## Spring-Core: 
+* Bean lifecycle
+* autowire
+* autoconfig
+* [AOP](https://www.baeldung.com/spring-aop-pointcut-tutorial)
 
 ## Spring boot 
   * [Interview Questions - baeldung](https://www.baeldung.com/spring-boot-interview-questions) 
@@ -31,8 +60,13 @@
  * [hypersistence optimizer](https://vladmihalcea.com/hypersistence-optimizer/)
  *
 
-* Authentication OR Authorization: JWT, session tokens
-* Security: CVE, Hashivault
+## Authentication OR Authorization:
+* JWT
+* Session Tokens
+
+## Security 
+* CVE
+* Hashivault
 
 
 ## Micro-servicesService 
@@ -41,16 +75,50 @@
  * [Debug Challenges](https://thenewstack.io/tracing-why-logs-arent-enough-to-debug-your-microservices/)
 
 
-* Multi-threading: Synchronized, locks, wait, join, Atomicity, volatile, Executor framework, [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
-* Design Principles: Singleton, SOLID, fan-out, Application Layering,
-* Active-MQ, Kafka
+## Multi-threading
+*  Synchronized
+*  locks
+*  wait
+*  join
+*  Atomicity
+*  volatile
+*  Executor framework
+*  [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
+
+
+## Design Principles: 
+* Singleton,
+* SOLID
+* fan-out
+* Application Layering
+
+## JMS
+* Active-MQ
+* Kafka
+
+## Testing
 * Junit
+* Mock
+
+## CI/CD
 * Jenkins
+
+## Containers 
 * Docker
-* ELK
+* Kubernetes
+
+## ELK
+* Logtash
 * Elastic-search
-* Caching: Redis, mem-cache
-* Graph database
+* Kibana
+
+
+## Caching
+* Redis
+* Mem-cache
+
+
+## Graph database
 
 ## No-Sql
 * [No-sql guide](https://blog.nahurst.com/visual-guide-to-nosql-systems)
