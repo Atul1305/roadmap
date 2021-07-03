@@ -69,8 +69,10 @@
 
 ## Micro-servicesService 
  * Discovery
+ * loadbalancing
  * [Service-Mesh](https://www.baeldung.com/ops/istio-service-mesh) 
- * Circuit braker, ribbon, loadbalancing, 
+ * Circuit braker
+ * ribbon
  * [Concerns with Microservice](https://www.baeldung.com/cs/microservices-cross-cutting-concerns)
  * [Debug Challenges](https://thenewstack.io/tracing-why-logs-arent-enough-to-debug-your-microservices/)
 
@@ -87,7 +89,7 @@
 
 
 ## Design Principles: 
-* Singleton,
+* Singleton
 * SOLID
 * fan-out
 * Application Layering
