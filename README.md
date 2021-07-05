@@ -140,6 +140,9 @@
 
 ## No-Sql
 * [No-sql guide](https://blog.nahurst.com/visual-guide-to-nosql-systems)
+* Mongo DB
+ 1. [Mongo Db Spring data](https://www.baeldung.com/spring-data-mongodb-tutorial)
+
 
 ## AWS
 * [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
