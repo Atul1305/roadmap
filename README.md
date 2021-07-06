@@ -107,6 +107,9 @@
 ## JMS
 * Active-MQ
 * Kafka
+ 1. [Documentation](http://kafka.apache.org/documentation.html)
+ 2. [Core Concepts](https://www.youtube.com/watch?v=udnX21__SuU)
+ 3. [Kafka With Spring](https://www.baeldung.com/spring-kafka)
 
 ## Testing
 * Junit
@@ -141,11 +144,15 @@
 ## No-Sql
 * [No-sql guide](https://blog.nahurst.com/visual-guide-to-nosql-systems)
 * Mongo DB
- 1. [Mongo Db Spring data](https://www.baeldung.com/spring-data-mongodb-tutorial)
+ 1. [Documentation](https://docs.mongodb.com/manual/tutorial/getting-started/)
+ 2. [Mongo Db Spring data](https://www.baeldung.com/spring-data-mongodb-tutorial)
 
 
 ## AWS
 * [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
+
+## Chaos Monkey
+* [Chaos Monkey Spring boot](https://www.baeldung.com/spring-boot-chaos-monkey)
 
 ## others
 [Contribution to baeldung](https://www.baeldung.com/contribution-guidelines)
