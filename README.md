@@ -157,5 +157,8 @@
 * [Principles](https://principlesofchaos.org/)
 * [Chaos Monkey Spring boot](https://www.baeldung.com/spring-boot-chaos-monkey)
 
+## Product Engineering
+* [How to know if you have got product market?](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
+
 ## others
 [Contribution to baeldung](https://www.baeldung.com/contribution-guidelines)
