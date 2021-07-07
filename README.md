@@ -66,7 +66,6 @@
 ## Authentication OR Authorization:
 * JWT
     1. [What if your jwt token is stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
-
 * Session Tokens
 
 ## Security 
@@ -98,11 +97,14 @@
 *  [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
 
 
-## Design Principles: 
+## Design Principles
 * Singleton
 * SOLID
 * fan-out
 * Application Layering
+
+## Development Style
+* [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
 ## JMS
 * Active-MQ
