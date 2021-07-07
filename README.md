@@ -152,6 +152,7 @@
 * [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
 
 ## Chaos Monkey
+* [Principles](https://principlesofchaos.org/)
 * [Chaos Monkey Spring boot](https://www.baeldung.com/spring-boot-chaos-monkey)
 
 ## others
