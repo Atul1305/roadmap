@@ -159,6 +159,13 @@
 
 ## Product Engineering
 * [How to know if you have got product market?](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
+* [Playbook for Product Market-Fit](https://leanstartup.co/a-playbook-for-achieving-product-market-fit/)
+* [Product Markit-Fit](https://brianbalfour.com/essays/product-market-fit)
+* [Traction vs Growth](https://brianbalfour.com/essays/traction-vs-growth)
+* [How Superhuman Built an Engine to Find Product/Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit)
+
+## Startups
+* [Part 1: Why not to do a startup and more...](https://pmarchive.com/guide_to_startups_part1.html)
 
 ## others
 [Contribution to baeldung](https://www.baeldung.com/contribution-guidelines)
