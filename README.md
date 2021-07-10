@@ -149,6 +149,7 @@
  1. [Documentation](https://docs.mongodb.com/manual/tutorial/getting-started/)
  2. [Mongo Db Spring data](https://www.baeldung.com/spring-data-mongodb-tutorial)
  3. [MongoDb vs SQL](https://www.knowi.com/blog/mongodb-vs-sql/)
+ 4. [MongoDb with Hadoop Spark](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup)
 
 
 ## AWS
