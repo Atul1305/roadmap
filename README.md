@@ -148,6 +148,7 @@
 * Mongo DB
  1. [Documentation](https://docs.mongodb.com/manual/tutorial/getting-started/)
  2. [Mongo Db Spring data](https://www.baeldung.com/spring-data-mongodb-tutorial)
+ 3. [MongoDb vs SQL](https://www.knowi.com/blog/mongodb-vs-sql/)
 
 
 ## AWS
