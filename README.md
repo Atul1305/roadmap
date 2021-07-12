@@ -2,14 +2,18 @@
 
 ## Core java
 1. Collections
+ * Linked Hashmap
  * [Linked Hashmap - Internal Working](https://anmolsehgal.medium.com/java-linkedhashmap-internal-implementation-44e2e2893036)
+ * Priority Queue
+ * [Usage of Priority Queue](https://www.educative.io/edpresso/how-to-use-priorityqueue-in-java)
 3. Interface
 4. Overloading 
 5. Inheritance
 6. Exceptions 
 
 ## Java8 
-* [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)f
+* [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)
+* [Map and Flat-map](https://www.baeldung.com/java-difference-map-and-flatmap)
 
 ## Garbage Collection(GC): 
 * [How GC works](https://www.freecodecamp.org/news/garbage-collection-in-java-what-is-gc-and-how-it-works-in-the-jvm/)
