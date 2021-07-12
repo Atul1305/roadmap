@@ -1,11 +1,12 @@
 ## Recap
 
 ## Core java
-* Collections
-* interface
-* overloading 
-* inheritance
-* exceptions 
+1. Collections
+ * [Linked Hashmap - Internal Working](https://anmolsehgal.medium.com/java-linkedhashmap-internal-implementation-44e2e2893036)
+3. Interface
+4. Overloading 
+5. Inheritance
+6. Exceptions 
 
 ## Java8 
 * [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)f
