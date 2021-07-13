@@ -71,6 +71,7 @@
 ## Authentication OR Authorization:
 * JWT
     1. [What if your jwt token is stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
+    2. JWT Certificate
 * Session Tokens
 
 ## Security 
