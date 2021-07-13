@@ -177,6 +177,7 @@
 
 ## Companies
 * Apple
+
 **Data structures** you should know: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hash sets, Hash maps <br>
 **Algorithms** you should know: Depth first search, Breadth first search, Binary search, Quicksort, Mergesort, Dynamic programming, Divide and conquer <br>
 
