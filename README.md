@@ -2,10 +2,6 @@
 
 ## Core java
 1. Collections
- * Linked Hashmap
- * [Linked Hashmap - Internal Working](https://anmolsehgal.medium.com/java-linkedhashmap-internal-implementation-44e2e2893036)
- * Priority Queue
- * [Usage of Priority Queue](https://www.educative.io/edpresso/how-to-use-priorityqueue-in-java)
 3. Interface
 4. Overloading 
 5. Inheritance
@@ -29,9 +25,15 @@
 
 ## Data Structure
 * Weak hashmap
-* hashset
-* arraylist
+* Hashset
+* Arraylist
+* Linked List
+* Linked Hashmap
+ 1. [Linked Hashmap - Internal Working](https://anmolsehgal.medium.com/java-linkedhashmap-internal-implementation-44e2e2893036)
+* Priority Queue
+ 1. [Usage of Priority Queue](https://www.educative.io/edpresso/how-to-use-priorityqueue-in-java)
 
+* [Event Stream Processing](https://hazelcast.com/glossary/event-stream-processing/)
 
 ## Rest API 
 * Principle
