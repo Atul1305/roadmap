@@ -176,6 +176,7 @@
 * Apple
  1. [Coding Problems](https://www.educative.io/blog/apple-coding-interview-questions)
  2. [Tech Interview Questions](https://www.wisdomjobs.com/e-university/apple-technical-interview-questions.html)
+ 3. [7 Core Values at Apple via Tim Cook (Youtube)](https://www.youtube.com/watch?v=wmo8bmzAyyU)
 
 ## Startups
 * [Part 1: Why not to do a startup and more...](https://pmarchive.com/guide_to_startups_part1.html)
