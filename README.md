@@ -157,6 +157,9 @@
  3. [MongoDb vs SQL](https://www.knowi.com/blog/mongodb-vs-sql/)
  4. [MongoDb with Hadoop Spark](https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup)
 
+## Monitoring
+* Splunk, monitoring & alerting APIs (e.g. Prometheus, PagerDuty)
+
 
 ## AWS
 * [Reduce Cost](https://dzone.com/articles/reducing-your-cloud-costs-by-90)
@@ -174,9 +177,14 @@
 
 ## Companies
 * Apple
+
+**Data structures** you should know: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hash sets, Hash maps <br>
+**Algorithms** you should know: Depth first search, Breadth first search, Binary search, Quicksort, Mergesort, Dynamic programming, Divide and conquer <br>
+
  1. [Coding Problems](https://www.educative.io/blog/apple-coding-interview-questions)
  2. [Tech Interview Questions](https://www.wisdomjobs.com/e-university/apple-technical-interview-questions.html)
  3. [7 Core Values at Apple via Tim Cook (Youtube)](https://www.youtube.com/watch?v=wmo8bmzAyyU)
+ 4. 
 
 ## Startups
 * [Part 1: Why not to do a startup and more...](https://pmarchive.com/guide_to_startups_part1.html)
