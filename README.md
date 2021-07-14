@@ -122,6 +122,7 @@
  3. [Kafka With Spring](https://www.baeldung.com/spring-kafka)
  4. [Kafka Partitions](https://www.instaclustr.com/the-power-of-kafka-partitions-how-to-get-the-most-out-of-your-kafka-cluster/)
  5. [role of ZooKeeper in Kafka](https://data-flair.training/blogs/zookeeper-in-kafka/)
+ 6. [Choose number per topics and partition](https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster/)
 
 ## Testing
 * Junit
