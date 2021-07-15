@@ -68,6 +68,7 @@
  * [Tips for JPA with Oracle](https://vladmihalcea.com/tips-oracle-jpa-hibernate/)
  * entity relationship
  * [hypersistence optimizer](https://vladmihalcea.com/hypersistence-optimizer/)
+ * [Caching in hibernate](https://www.javatpoint.com/Caching-in-hibernate)
  * Second level Caching
 
 ## Authentication OR Authorization:
