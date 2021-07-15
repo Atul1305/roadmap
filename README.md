@@ -69,7 +69,7 @@
  * entity relationship
  * [hypersistence optimizer](https://vladmihalcea.com/hypersistence-optimizer/)
  * [Caching in hibernate](https://www.javatpoint.com/Caching-in-hibernate)
- * Second level Caching
+ * [Second level Caching](https://www.javatpoint.com/hibernate-second-level-cache)
 
 ## Authentication OR Authorization:
 * JWT
