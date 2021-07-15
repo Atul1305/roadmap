@@ -68,7 +68,7 @@
  * [Tips for JPA with Oracle](https://vladmihalcea.com/tips-oracle-jpa-hibernate/)
  * entity relationship
  * [hypersistence optimizer](https://vladmihalcea.com/hypersistence-optimizer/)
- *
+ * Second level Caching
 
 ## Authentication OR Authorization:
 * JWT
@@ -104,6 +104,8 @@
 *  Executor framework
 *  [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/)
 
+## Design Pattern
+* Builder Design Pattern
 
 ## Design Principles
 * Singleton
