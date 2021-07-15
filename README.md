@@ -5,7 +5,7 @@
 3. Interface
 4. Overloading 
 5. Inheritance
-6. Exceptions 
+6. Exceptions
 
 ## Java8 
 * [Performance of streams](https://jaxenter.com/java-performance-tutorial-how-fast-are-the-java-8-streams-118830.html)
@@ -69,7 +69,7 @@
  * entity relationship
  * [hypersistence optimizer](https://vladmihalcea.com/hypersistence-optimizer/)
  * [Caching in hibernate](https://www.javatpoint.com/Caching-in-hibernate)
- * [Second level Caching](https://www.javatpoint.com/hibernate-second-level-cache)
+ * [Second level Caching](https://hazelcast.com/glossary/hibernate-second-level-cache/)
 
 ## Authentication OR Authorization:
 * JWT
