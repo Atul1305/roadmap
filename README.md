@@ -152,7 +152,7 @@
 
 ## Caching
 * Redis
-* Eh Cache
+* Eh Cache - Can be used in second level caching in hibernate.
 * Mem-cache
 
 
