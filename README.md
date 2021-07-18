@@ -113,6 +113,7 @@
 * SOLID
 * fan-out
 * Application Layering
+* [Map Reduce (Youtube)](https://www.youtube.com/watch?v=43fqzaSH0CQ)
 
 ## Development Style
 * [Trunk Based Development](https://trunkbaseddevelopment.com/)
