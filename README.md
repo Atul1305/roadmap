@@ -157,6 +157,10 @@
 * Eh Cache - Can be used in second level caching in hibernate.
 * Mem-cache
 
+## Databases
+* [Row-store and column-store](https://www.percona.com/blog/2016/12/14/row-store-and-column-store-databases/)
+* [Fully managed column-store DB (single store aka memsql)](https://docs.singlestore.com/)
+
 
 ## Graph database
 
