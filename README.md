@@ -61,7 +61,9 @@
 
 
 ## Database
-[OptimisticVsPessimistic Locking](https://vladmihalcea.com/optimistic-vs-pessimistic-locking/)
+* [OptimisticVsPessimistic Locking](https://vladmihalcea.com/optimistic-vs-pessimistic-locking/)
+* [Row-store and column-store](https://www.percona.com/blog/2016/12/14/row-store-and-column-store-databases/)
+* [Fully managed column-store DB (single store aka memsql)](https://docs.singlestore.com/)
 
 ## Hibernate
  * [transaction](https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr#:~:text=Transaction%20propagation%20indicates%20if%20any,have%20a%20transaction%20created%20already)
@@ -156,10 +158,6 @@
 * Redis
 * Eh Cache - Can be used in second level caching in hibernate.
 * Mem-cache
-
-## Databases
-* [Row-store and column-store](https://www.percona.com/blog/2016/12/14/row-store-and-column-store-databases/)
-* [Fully managed column-store DB (single store aka memsql)](https://docs.singlestore.com/)
 
 
 ## Graph database
